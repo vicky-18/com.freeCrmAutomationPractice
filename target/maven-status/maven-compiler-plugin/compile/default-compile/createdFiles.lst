@@ -1,0 +1,7 @@
+com\qa\dataprovider\Excel.class
+com\qa\lib\Helper.class
+com\qa\pages\LoginPage.class
+com\qa\pages\SignUp.class
+com\qa\pages\HomePage.class
+com\qa\base\Base.class
+com\qa\pages\CRMProPage.class
