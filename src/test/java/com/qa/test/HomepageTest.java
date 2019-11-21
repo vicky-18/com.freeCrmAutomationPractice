@@ -82,7 +82,7 @@ public class HomepageTest extends Base
 		
 		String title = driver.getTitle();
 		
-		Assert.assertEquals(title, "CRMPRO PRICING");
+		Assert.assertEquals(title,"Free CRM Pro PRICING");
 		
 		System.out.print(title);
 		
